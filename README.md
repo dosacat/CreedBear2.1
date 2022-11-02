@@ -17,7 +17,8 @@ HOW TO RUN ON PERSONAL SYSTEM
 
 ******************************************************************************
 SAMPLE RESPONSE 
-
+![image](https://user-images.githubusercontent.com/98118185/199567283-cc8cc28e-b94e-48a6-9a81-b1b5a82dae8e.png)
+![image](https://user-images.githubusercontent.com/98118185/199567485-a803b0dc-2696-4847-b55b-45f5b791c5a8.png)
 
 
 
