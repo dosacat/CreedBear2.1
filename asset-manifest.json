@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CreedBear2.1/static/css/main.c24e55aa.css",
+    "main.js": "/CreedBear2.1/static/js/main.b3222c39.js",
+    "index.html": "/CreedBear2.1/index.html",
+    "main.c24e55aa.css.map": "/CreedBear2.1/static/css/main.c24e55aa.css.map",
+    "main.b3222c39.js.map": "/CreedBear2.1/static/js/main.b3222c39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c24e55aa.css",
+    "static/js/main.b3222c39.js"
+  ]
+}
