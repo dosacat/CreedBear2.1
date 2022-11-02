@@ -1,0 +1,21 @@
+input{
+    padding: 8px 0px;
+    margin:8px;
+    border-color: hsl(267, 62%, 40%); /* Purple */;
+
+}
+input:hover{
+    border-color: hsl(267, 72%, 25%); /* Purple */;
+
+}
+label{
+    margin:10px;
+
+}
+
+.formInput{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-size: large;
+}
